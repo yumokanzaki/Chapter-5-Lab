@@ -1,0 +1,63 @@
+.price 
+{ 
+	color: #CA4D52;
+	font-weight: bold;
+}
+.similarTitle 
+{ 
+	font-size: .9em;
+	color: #1678C4;
+	font-weight:bold;
+}
+.cartText 
+{ 
+	font-size: .9em;
+	font-weight: bold;
+}
+.cartTotal 
+{
+	font-weight:normal;
+	font-size: .8em;
+}
+.media 
+{
+margin: 1em;
+
+}
+.tight-form-group {  }
+.list-group-item 
+{
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  margin-bottom: -1px;
+  background-color: #ffffff;
+}
+.customerservice-list-group-item 
+{
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  margin-bottom: -1px;
+  background-color: #E7E7E7;
+}
+h1 
+{ font-size: 3em; font-weight: bold; margin-top: 0;}
+div#topHeaderRow 
+{
+   font-size: .9em;
+}
+#copyrightRow 
+{ 
+    background-color: #3A3A3A;
+	font-size: 1em;
+	color: #999999;
+	width: 100%;
+	padding: .4em;
+}
+footer 
+{
+   margin-top: 2em;
+   background-color: #E7E7E7;
+
+}
